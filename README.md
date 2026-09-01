@@ -85,12 +85,21 @@
 </p>
 
 **Cybersecurity**
+
+
 <p>
-  <img src="https://img.shields.io/badge/Cybersecurity-000000?style=flat-square&logo=hackthebox&logoColor=white" />
-  <img src="https://img.shields.io/badge/Network%20Security-1E90FF?style=flat-square&logo=cisco&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Secure%20SDLC-4B0082?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/OSINT-2F4F4F?style=flat-square&logo=googlesearch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Web%20App%20Testing-FF6B35?style=flat-square&logo=owasp&logoColor=white" />
+  
+  <img src="https://img.shields.io/badge/Hydra-4B0082?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=portswigger&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=flat-square&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploitable-8B0000?style=flat-square&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobSF-4B0082?style=flat-square&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAT%20-6A0DAD?style=flat-square&logo=linux&logoColor=white" />
 </p>
 
 ---
@@ -108,7 +117,7 @@
 
 ### 🎓 Education
 
-- **B.Tech, CSE (Cyber Security)** — Sasi Institute of Technology and Engineering (2022–2026), CGPA: 8.33
+- **B.Tech, CSE (IOT & Cyber Security)** — Sasi Institute of Technology and Engineering (2022–2026), CGPA: 8.33
 - **Intermediate (MPC)** — Andhra Association (U.K.) Junior College (2020–2022)
 - **SSC** — Vijaya English Medium High School (2019–2020), GPA: 9.0
 
