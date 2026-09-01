@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aditya Bhargava Reddy </h1>
-<h3 align="center">Full-Stack Developer | React.js • FastAPI • PostgreSQL | AI/ML & Cybersecurity Enthusiast</h3>
+<h3 align="center">Full-Stack Developer | React.js • FastAPI • PostgreSQL | AI/ML & Cybersecurity </h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Full-Stack+Developer+%7C+MERN+%26+FastAPI;Building+Scalable+Web+Applications;AI%2FML+%7C+RAG+%7C+LLMs+%7C+Cybersecurity;Open+to+Collaboration+%26+Internships" alt="Typing SVG" />
