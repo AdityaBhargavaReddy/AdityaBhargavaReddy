@@ -122,7 +122,7 @@
 ---
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_GITHUB_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=AdityaBhargavaReddy&theme=tokyonight&no-frame=true&row=1&column=6" alt="trophies" />
 </p>
 
 ### 🤝 Let's Connect
